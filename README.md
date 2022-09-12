@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!  My name is Jess, and I am currently working on Python and Data!! Shout out! 👋
+
+If you want to see the rest of my online protofolio, then feel free to check out:
+
+https://mylinks.jdstechlab.net
+
+I am mostly trying to build my portfolio, and work on my online presence.  Please keep your eyes peeled on my website, LinkedIn, and my Twitter for updates!  I'll be adding more to this in the future!  Stay tuned!
 
 <!--
 **jdsjdk/jdsjdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
